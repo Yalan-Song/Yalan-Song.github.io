@@ -24,7 +24,7 @@ An improved differentiable HBV method that can surpass LSTM in predicting unseen
 
 AI for Continental and Global Water Prediction
 ------
-We developed δHBV2.0, a high-resolution differentiable hydrologic model that integrates physical principles with neural networks for continental- and global-scale water prediction. By explicitly representing sub-basin heterogeneity, δHBV2.0 enables seamless streamflow simulation across approximately 180,000 MERIT unit basins across CONUS and can simulate 40 years of streamflow in just one GPU hour. Compared to the National Water Model 3.0 and existing global hydrologic models, δHBV2.0 represents a step change in large-scale, high-resolution hydrologic simulation capabilities. National and global hydrologic [datasets]((https://Yalan-Song.github.io/datasets)) from δHBV2.0 are publicly available.
+I developed δHBV2.0, a high-resolution differentiable hydrologic model that integrates physical principles with neural networks for continental- and global-scale water prediction. By explicitly representing sub-basin heterogeneity, δHBV2.0 enables seamless streamflow simulation across approximately 180,000 MERIT unit basins across CONUS and can simulate 40 years of streamflow in just one GPU hour. Compared to the National Water Model 3.0 and existing global hydrologic models, δHBV2.0 represents a step change in large-scale, high-resolution hydrologic simulation capabilities. National and global hydrologic [datasets](https://Yalan-Song.github.io/datasets) from δHBV2.0 are publicly available.
 
 Song, Y., Bindas, T., Shen, C., Ji, H., Knoben, W. J. M., Lonzarich, L., et al., 2025. High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning. Water Resources Research, 61, e2024WR038928. [https://doi.org/10.1029/2024WR038928](https://doi.org/10.1029/2024WR038928)
 
@@ -33,13 +33,31 @@ Ji, H., Song, Y., Bindas, T., Shen, C., Yang, Y., Pan, M., Liu, J., Rahmani, F.,
 Comparisons of δHBV2.0 with NWM3.0 and GWMs/
 ![δHBV2](/images/δHBV2.png)
 
+AI for Bathymetry Inversion and Scientific Learning in River Hydrodynamics
+------
+This work is a collaboration with Prof. Xiaofeng Liu exploring how AI can advance river hydrodynamic modeling. We first developed neural network-based surrogate models to accelerate river hydrodynamic simulations and applied them to the challenging problem of bathymetry inversion. To overcome the limitations of purely data-driven approaches, which require large training datasets and often generalize poorly beyond the training domain, we then developed a differentiable hybrid framework that directly couples neural networks with numerical solvers. This approach enables efficient and physically consistent inversion of hydraulic parameters, demonstrating how AI can help rather than replace classical numerical modeling for scientific discovery.
+
+Liu, X., Song, Y. and Shen, C., 2024. Bathymetry inversion using a deep-learning-based surrogate for shallow water equations solvers. Water Resources Research, 60(3), p.e2023WR035890. https://doi.org/10.1029/2023WR035890
+
+Liu, X. and Song, Y. (corresponding author), 2025. Scientific machine learning of flow resistance using universal shallow water equations with differentiable programming. Water Resources Research, 61(9), e2025WR040265. https://doi.org/10.1029/2025WR040265
+
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="/images/manningn.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Environmental fluid dynamics and sediment transport
 ------
 During my Ph.D. research, I developed a high-fidelity three-dimensional (3D) hydrodynamic--sediment model to address a long-standing challenge in the field: accurately simulating 3D scour around complex hydraulic structures. By incorporating an immersed boundary method and an adapted wall function into a 3D scour model, I resolved numerical instability issues present in previous approaches and achieved the first successful simulation and validation of 3D scour around structures with complex foundations using unstructured meshes.
 
 Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models. Coastal Engineering, 171, p.104037, https://doi.org/10.1016/j.coastaleng.2021.104037.
 
+Song, Y., Darzikolaei, S.A.M. and Liu, X., 2022. Scour around underwater unexploded ordnances (UXOs): An experimental and computational investigation. Ocean Engineering, 262, p.112146, https://doi.org/10.1016/j.oceaneng.2022.112146.
+
 <video controls autoplay muted loop playsinline width="100%">
   <source src="/images/scour_github.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+Explore more of my research on differentiable modeling, AI for water quality and snow hydrology, river hydrodynamics, computational fluid dynamics, and sediment transport on my [research page] (https://Yalan-Song.github.io/research)
+
