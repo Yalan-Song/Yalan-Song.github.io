@@ -50,9 +50,9 @@ Environmental fluid dynamics and sediment transport
 ------
 During my Ph.D. research, I developed a high-fidelity three-dimensional (3D) hydrodynamic--sediment model to address a long-standing challenge in the field: accurately simulating 3D scour around complex hydraulic structures. By incorporating an immersed boundary method and an adapted wall function into a 3D scour model, I resolved numerical instability issues present in previous approaches and achieved the first successful simulation and validation of 3D scour around structures with complex foundations using unstructured meshes.
 
-Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models. Coastal Engineering, 171, p.104037, https://doi.org/10.1016/j.coastaleng.2021.104037.
+Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models. Coastal Engineering, 171, p.104037, [https://doi.org/10.1016/j.coastaleng.2021.104037](https://doi.org/10.1016/j.coastaleng.2021.104037).
 
-Song, Y., Darzikolaei, S.A.M. and Liu, X., 2022. Scour around underwater unexploded ordnances (UXOs): An experimental and computational investigation. Ocean Engineering, 262, p.112146, https://doi.org/10.1016/j.oceaneng.2022.112146.
+Song, Y., Darzikolaei, S.A.M. and Liu, X., 2022. Scour around underwater unexploded ordnances (UXOs): An experimental and computational investigation. Ocean Engineering, 262, p.112146, [https://doi.org/10.1016/j.oceaneng.2022.112146](https://doi.org/10.1016/j.oceaneng.2022.112146).
 
 <video controls autoplay muted loop playsinline width="100%">
   <source src="/images/scour_github.mp4" type="video/mp4">
