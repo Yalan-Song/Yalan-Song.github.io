@@ -12,9 +12,10 @@ My work focuses on hydrologic modeling, environmental fluid dynamics, climate im
 
 Selected Research
 ======
+
 Differentiable Hydrologic Modeling (AI+physical principles) for Extreme Events
 ------
-This work demonstrates that differentiable hydrologic models, which integrate hydrologic principles with machine learning, can provide more reliable predictions of extreme and unseen flood events than purely data-driven deep learning models (e.g., LSTMs) while maintaining physical interpretability and spatial generalizability, as well as producing good estimates of untrained internal hydrologic variables.
+This work demonstrates that differentiable hydrologic models, which integrate hydrologic principles with neural networks, can provide more reliable predictions of extreme and unseen flood events than purely data-driven deep learning models (e.g., LSTMs) while maintaining physical interpretability and spatial generalizability, as well as producing good estimates of untrained internal hydrologic variables.
 
 Song, Y., Sawadekar, K., Frame, J.M., Pan, M., Clark, M.P., Knoben, W.J., Wood, A.W., Lawson, K.E., Patel, T. and Shen, C., 2026. Physics-informed, Differentiable hydrologic models for capturing unseen extreme events. Water Resources Research, 62(2), p.e2025WR040414. [https://doi.org/10.1029/2025WR040414](https://doi.org/10.1029/2025WR040414) 
 
@@ -23,15 +24,22 @@ An improved differentiable HBV method that can surpass LSTM in predicting unseen
 
 AI for Continental and Global Water Prediction
 ------
-We developed δHBV2.0, a high-resolution differentiable hydrologic model that integrates physical principles with machine learning for continental- and global-scale water prediction. By explicitly representing sub-basin heterogeneity, δHBV2.0 enables seamless streamflow simulation across approximately 180,000 MERIT unit basins and can simulate 40 years of streamflow in just one GPU hour. Compared to the National Water Model 3.0 and existing global hydrologic models, δHBV2.0 represents a major advance in large-scale, high-resolution, and seamless hydrologic simulation.
+We developed δHBV2.0, a high-resolution differentiable hydrologic model that integrates physical principles with neural networks for continental- and global-scale water prediction. By explicitly representing sub-basin heterogeneity, δHBV2.0 enables seamless streamflow simulation across approximately 180,000 MERIT unit basins across CONUS and can simulate 40 years of streamflow in just one GPU hour. Compared to the National Water Model 3.0 and existing global hydrologic models, δHBV2.0 represents a step change in large-scale, high-resolution hydrologic simulation capabilities. National and global hydrologic [datasets]((https://Yalan-Song.github.io/datasets)) from δHBV2.0 are publicly available.
 
 Song, Y., Bindas, T., Shen, C., Ji, H., Knoben, W. J. M., Lonzarich, L., et al., 2025. High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning. Water Resources Research, 61, e2024WR038928. [https://doi.org/10.1029/2024WR038928](https://doi.org/10.1029/2024WR038928)
+
+Ji, H., Song, Y., Bindas, T., Shen, C., Yang, Y., Pan, M., Liu, J., Rahmani, F., Abbas, A., Beck, H. and Lawson, K., 2025. Distinct hydrologic response patterns and trends worldwide revealed by physics-embedded learning. Nature Communications, 16(1), p.9169. [https://www.nature.com/articles/s41467-025-64367-1](https://www.nature.com/articles/s41467-025-64367-1)
 
 Comparisons of δHBV2.0 with NWM3.0 and GWMs/
 ![δHBV2](/images/δHBV2.png)
 
-AI for Scientific Discovery and Bathymetry Inversion in River Hydrodynamics
+Environmental fluid dynamics and sediment transport
 ------
+During my Ph.D. research, I developed a high-fidelity three-dimensional (3D) hydrodynamic--sediment model to address a long-standing challenge in the field: accurately simulating 3D scour around complex hydraulic structures. By incorporating an immersed boundary method and an adapted wall function into a 3D scour model, I resolved numerical instability issues present in previous approaches and achieved the first successful simulation and validation of 3D scour around structures with complex foundations using unstructured meshes.
 
+Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models. Coastal Engineering, 171, p.104037, https://doi.org/10.1016/j.coastaleng.2021.104037.
 
-
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="/images/scour_github.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
