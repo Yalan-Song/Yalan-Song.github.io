@@ -21,7 +21,7 @@ main:
     url: /awards/
 
   - title: "CV"
-    url: /cv/     
+    url: /files/CV_Yalan_Song.pdf  
 
   # - title: "CV"
   #   url: /cv-json/
