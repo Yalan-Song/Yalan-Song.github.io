@@ -35,14 +35,14 @@ Comparisons of δHBV2.0 with NWM3.0 and GWMs/
 
 AI for Bathymetry Inversion and Scientific Learning in River Hydrodynamics
 ------
-This work is a collaboration with Prof. Xiaofeng Liu exploring how AI can advance river hydrodynamic modeling. We first developed neural network-based surrogate models to accelerate river hydrodynamic simulations and applied them to the challenging problem of bathymetry inversion. To overcome the limitations of purely data-driven approaches, which require large training datasets and often generalize poorly beyond the training domain, we then developed a differentiable hybrid framework that directly couples neural networks with numerical solvers. This approach enables efficient and physically consistent inversion of hydraulic parameters, demonstrating how AI can help rather than replace classical numerical modeling for scientific discovery.
+This work is a collaboration with Prof. Xiaofeng Liu exploring how AI can advance river hydrodynamic modeling. We first developed neural network-based surrogate models to accelerate river hydrodynamic simulations and applied them to the challenging problem of bathymetry inversion. To overcome the limitations of purely data-driven approaches (surrogates), which require large training datasets and often generalize poorly beyond the training domain, we then developed a differentiable hybrid framework that directly couples neural networks with numerical solvers. This approach enables efficient and physically consistent inversion of hydraulic parameters, demonstrating how AI can help rather than replace classical numerical modeling for scientific discovery.
 
 Liu, X., Song, Y. and Shen, C., 2024. Bathymetry inversion using a deep-learning-based surrogate for shallow water equations solvers. Water Resources Research, 60(3), p.e2023WR035890. https://doi.org/10.1029/2023WR035890
 
 Liu, X. and Song, Y. (corresponding author), 2025. Scientific machine learning of flow resistance using universal shallow water equations with differentiable programming. Water Resources Research, 61(9), e2025WR040265. https://doi.org/10.1029/2025WR040265
 
 <video controls autoplay muted loop playsinline width="100%">
-  <source src="/images/manningn.mp4" type="video/mp4">
+  <source src="/images/manningn_github.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -59,5 +59,5 @@ Song, Y., Darzikolaei, S.A.M. and Liu, X., 2022. Scour around underwater unexplo
   Your browser does not support the video tag.
 </video>
 
-Explore more of my research on differentiable modeling, AI for water quality and snow hydrology, river hydrodynamics, computational fluid dynamics, and sediment transport on my [research page] (https://Yalan-Song.github.io/research)
+Explore more of my research on differentiable modeling, AI for water quality and snow, river hydrodynamics, computational fluid dynamics, and sediment transport on my [research page] (https://Yalan-Song.github.io/research)
 ------
