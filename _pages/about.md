@@ -46,6 +46,10 @@ Liu, X. and Song, Y. (corresponding author), 2025. Scientific machine learning o
   Your browser does not support the video tag.
 </video>
 
+
+Spatial distribution of Manning's n learned by a neural network within a differentiable hydrodynamic model.
+![Manningn](/images/Manningn.png)
+
 Environmental fluid dynamics and sediment transport
 ------
 During my Ph.D. research, I developed a high-fidelity three-dimensional (3D) hydrodynamic--sediment model to address a long-standing challenge in the field: accurately simulating 3D scour around complex hydraulic structures. By incorporating an immersed boundary method and an adapted wall function into a 3D scour model, I resolved numerical instability issues present in previous approaches and achieved the first successful simulation and validation of 3D scour around structures with complex foundations using unstructured meshes.
