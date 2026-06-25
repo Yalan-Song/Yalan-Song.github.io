@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I'm Yalan Song, a Research Assistant Professor in Water Resources Engineering at The Pennsylvania State University, working with Prof. [Chaopeng Shen](https://water.engr.psu.edu/shen/). I earned my Ph.D. in Civil Engineering, with a minor in Computational Science, from Penn State under the supervision of Prof. [Xiaofeng Liu](https://water.engr.psu.edu/liu/). I also hold an M.S. in Ocean Engineering from Shanghai Jiao Tong University and a B.S. in Ocean Engineering from Tianjin University.
 
-My work focuses on hydrologic modeling, environmental fluid dynamics, climate impacts on water resources, machine learning, and large-scale streamflow forecasting. Through my research, I aim to advance our understanding of the water cycle and develop next-generation hydrologic prediction systems with AI to support water resource management, climate adaptation, and hazard mitigation in a changing world. Here is my [CV](https://Yalan-Song.github.io/cv).
+My research focuses on large-scale hydrologic modeling, climate impacts on water resources, machine learning, environmental fluid dynamics, and sediment transport. Through my research, I aim to advance our understanding of the water cycle and develop next-generation hydrologic prediction systems with AI to support water resource management, climate adaptation, and hazard mitigation in a changing world. Here is my [CV](https://Yalan-Song.github.io/cv).
 
 Selected Research
 ======
