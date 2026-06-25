@@ -4,7 +4,7 @@ title: "Talks and presentations"
 author_profile: true
 ---
 
-# Invited presentations
+## Invited presentations
 
 ### 2026
 
