@@ -1,9 +1,54 @@
----
-permalink: /awards/
-title: "Awards & News"
-author_profile: true
+--- 
+permalink: /awards/ 
+title: "Awards & News" 
+author_profile: true 
 ---
 
+## News
+
+### Penn State News
+
+My research on **physics-informed AI for flood prediction** was featured by **Penn State News**, highlighting how differentiable machine learning can improve the accuracy and efficiency of flood forecasting.
+
+![Penn State News](/images/PSUnews.jpg)
+
+**Read the story:**
+[Improving predictions of flood severity, place, and time with AI](https://www.psu.edu/news/engineering/story/improving-predictions-flood-severity-place-and-time-ai)
+
+---
+
+### Penn State Research Video
+
+My research was also featured in a **Penn State News** interview discussing how AI can accelerate and improve flood prediction.
+
+![Penn State Research Video](/images/PSU_new_research2.jpg)
+
+**Watch the interview:**
+[Penn State Research Interview](https://www.youtube.com/watch?v=VhmHv0AR7GQ)
+
+---
+
+### Springwise
+
+My work on **AI-enabled flood prediction** was also featured by **Springwise**.
+
+![Springwise](/images/Springwise.jpg)
+
+**Read the article:**
+[AI predicts the location and severity of floods](https://springwise.com/sustainable-infrastructure/ai-predicts-the-location-and-severity-of-floods/)
+
+---
+
+### The Cool Down
+
+My research was also highlighted by **The Cool Down**.
+
+![The Cool Down](/images/TCD.jpg)
+
+**Read the article:**
+[Researchers develop incredibly intelligent tech that predicts future disasters: 'We can create simulations'](https://www.thecooldown.com/green-tech/flood-prediction-model-ai-urban-flooding/)
+
+---
 ## Research Funding
 
 ### Funded
@@ -31,58 +76,6 @@ author_profile: true
   **Requested:** $300,000
 
 ---
-
-### Pending Proposals
-
-#### External
-
-- **Taming the Extremes: Improving Operational Flash Flood Forecasting in NextGen**  
-  Submitted to **NOAA**, 2025  
-  **Role:** Lead Principal Investigator (PI)
-
-- **Reimagining NextGen: Demonstrating the Art of the Possible in Large-Domain Hydrologic Prediction**  
-  Submitted to **NOAA**, 2025  
-  **Role:** Co-Principal Investigator (Co-PI)
-
-- **Uncovering Causal Factors of Hydrological Drought to Inform Drought Early Warning Systems for Watersheds in the Intermountain West**  
-  Submitted to **NOAA**, 2025  
-  **Role:** Co-Principal Investigator (Co-PI)
-
-#### Internal
-
-- **A Coupled Plant–Soil–Water AI Framework for Predicting Coastal Agroecosystem Responses to Salinization and Marsh Invasion**  
-  **Huck Institutes Seed Grant**, 2026  
-  **Role:** Co-Principal Investigator (Co-PI)
-
-- **Multimodal Deep Learning for Interpreting and Predicting Whole-Brain fMRI Dynamics**  
-  **Huck Institutes Seed Grant**, 2026  
-  **Role:** Co-Principal Investigator (Co-PI)
-
----
-
-### Previous Proposals
-
-#### External
-
-- **Hydrology-Informed Forcing Correction with Differentiable Models to Produce High-Quality Historical and Forecast Forcing Datasets**  
-  Submitted to **NOAA**, 2023  
-  **Role:** Lead Principal Investigator (PI)
-
-- **National-Scale High-Resolution Differentiable Modeling for Improved Hydrologic Forecasts and Hydrology-Informed Forcing Bias Correction**  
-  Submitted to **NOAA**, 2024  
-  **Role:** Lead Principal Investigator (PI)
-
-- **Multivariate Data Learning and Assimilation for Ungauged Basins in NextGen at Hourly Time Scale**  
-  Submitted to **NOAA**, 2024  
-  **Role:** Co-Principal Investigator (Co-PI)  
-  **Requested:** $1,000,000
-
-#### Internal
-
-- **From Hydrology to Neutrinos and Back: Cross-Fertilizing Deep Learning Techniques**  
-  Penn State Seed Grant  
-  **Role:** Co-Principal Investigator (Co-PI)
-
 
 ## Honors and Fellowships
 
