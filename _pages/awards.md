@@ -8,7 +8,7 @@ author_profile: true
 
 ### Penn State News
 
-My research on **physics-informed AI for flood prediction** was featured by **Penn State News**, highlighting how AI-powered differentiable modeling can improve the accuracy and efficiency of flood forecasting.
+My research on **physics-informed AI for flood prediction** was featured by **Penn State News**, highlighting how AI-powered differentiable modeling can improve the accuracy and efficiency of flood prediction.
 ![Penn State News](/images/PSUnew.jpg)
 
 **Read the story:**
