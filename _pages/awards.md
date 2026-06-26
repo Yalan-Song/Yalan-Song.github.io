@@ -10,7 +10,7 @@ author_profile: true
 
 My research on **physics-informed AI for flood prediction** was featured by **Penn State News**, highlighting how differentiable machine learning can improve the accuracy and efficiency of flood forecasting.
 
-![Penn State News](/images/PSUnews.jpg)
+![Penn State News](/images/PSUnew.jpg)
 
 **Read the story:**
 [Improving predictions of flood severity, place, and time with AI](https://www.psu.edu/news/engineering/story/improving-predictions-flood-severity-place-and-time-ai)
@@ -43,7 +43,7 @@ My work on **AI-enabled flood prediction** was also featured by **Springwise**.
 
 My research was also highlighted by **The Cool Down**.
 
-![The Cool Down](/images/TCD.jpg)
+![The Cool Down](/images/TC.jpg)
 
 **Read the article:**
 [Researchers develop incredibly intelligent tech that predicts future disasters: 'We can create simulations'](https://www.thecooldown.com/green-tech/flood-prediction-model-ai-urban-flooding/)
