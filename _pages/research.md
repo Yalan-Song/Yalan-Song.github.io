@@ -7,7 +7,7 @@ author_profile: true
 
 ### Research Topics
 
-My research develops artificial intelligence (AI) methods for understanding and predicting environmental systems, with a particular focus on physics-informed differentiable modeling. By integrating machine learning with physical process models, I develop AI systems that are more accurate, interpretable, and physically consistent for applications including flood forecasting, hydrologic prediction, hydrodynamics, water quality, and snow hydrology. In addition, I conduct research on computational fluid dynamics and sediment transport, developing numerical methods for simulating complex hydraulic flows and scour processes.
+My research develops artificial intelligence (AI) methods for understanding and predicting environmental systems, with a particular focus on physics-informed differentiable modeling. By integrating machine learning with physical process models, I develop AI systems that are more accurate, interpretable, and physically consistent for applications including flood forecasting, hydrologic prediction, hydrodynamics, water quality, and snow hydrology. I also conduct research on computational fluid dynamics and sediment transport, developing classic numerical solvers for simulating complex hydraulic flows and scour processes.
 
 * [Differentiable (Physics-Informed AI) Hydrologic Modeling](#differentiable-hydrologic-modeling)
   * [Differentiable Modeling for Extreme Flood Prediction](#differentiable-modeling-for-extreme-flood-prediction)
