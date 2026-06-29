@@ -214,7 +214,7 @@ Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed
 I combined laboratory experiments and three-dimensional numerical simulations to investigate scour development around underwater unexploded ordnances. The work provides guidance for hazard assessment and offshore engineering applications.
 
 <video controls autoplay muted loop playsinline width="100%">
-  <source src="/images/scour_cylinder_web.mp4" type="video/mp4">
+  <source src="/images/scour_uxos_web.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
