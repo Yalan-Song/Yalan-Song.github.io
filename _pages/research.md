@@ -74,6 +74,8 @@ Ji, H., Song, Y., Bindas, T., Shen, C., Yang, Y., Pan, M., Liu, J., Rahmani, F.,
 ### Adjoint-Based Differentiable Modeling for Large-Scale Implicit Hydrologic Models
 Large-scale hydrologic models often rely on implicit numerical schemes, making gradient computation prohibitively expensive for differentiable modeling. I developed an adjoint-based differentiable framework that efficiently computes gradients for implicit solvers, enabling scalable end-to-end training of physics-informed AI models without sacrificing numerical stability or accuracy.
 
+![adjoint](/images/adjoint.png)
+
 **Representative publications**
 
 Song, Y., Knoben, W.J., Clark, M.P., Feng, D., Lawson, K., Sawadekar, K.$^*$ and Shen, C., 2024. When ancient numerical demons meet physics-informed machine learning: adjoint-based gradients for implicit differentiable modeling. Hydrology and Earth System Sciences, 28(13), pp.3051-3077, [https://doi.org/10.5194/hess-28-3051-2024](https://doi.org/10.5194/hess-28-3051-2024) 
