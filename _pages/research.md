@@ -150,6 +150,8 @@ Song, Y. , Shen, C. and Liu, X., 2023. A surrogate model for shallow water equat
 
 River bathymetry is difficult to measure directly. We developed differentiable surrogate-based inversion methods that infer riverbed topography efficiently from hydraulic observations, significantly reducing computational cost compared with conventional optimization approaches.
 
+![bathymetry](/images/bathymetry.png)
+
 **Representative publication**
 
 Liu, X., Song, Y. and Shen, C., 2024. Bathymetry inversion using a deep-learning-based surrogate for shallow water equations solvers. Water Resources Research, 60(3), p.e2023WR035890. [https://doi.org/10.1029/2023WR035890](https://doi.org/10.1029/2023WR035890)
@@ -159,6 +161,15 @@ Liu, X., Song, Y. and Shen, C., 2024. Bathymetry inversion using a deep-learning
 ### Differentiable Shallow Water Modeling for Knowledge Discovery (Parameter Inversion)
 
 Beyond prediction, differentiable shallow water models enable direct learning of unknown physical parameters, such as spatially varying Manning’s roughness, from flow observations. We developed a framework that directly couples neural networks with shallow water equation solvers, allowing the model to infer hidden hydraulic properties while preserving the governing physics of river flow. This approach turns hydrodynamic modeling into a tool for scientific discovery with AI, helping reveal spatial patterns in flow resistance that are difficult to measure directly.
+
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="/images/manningn_github.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+Spatial distribution of Manning's n in a real river channel learned by a neural network within a differentiable shallow water model (USWEs).
+![Manningn](/images/Manningn.png)
 
 **Representative publication**
 
@@ -172,6 +183,11 @@ Liu, X. and Song, Y. (corresponding author), 2025. Scientific machine learning o
 
 I developed a physically based sand slide formulation that improves numerical stability and realism in scour simulations by representing gravitational sediment transport over steep slopes.
 
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="/images/scour_cylinder_web.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **Representative publication**
 
 Song, Y., Xu, Y., and Liu, X. (2020). Physically Based Sand Slide Method in Scour Models Based on Slope-Limited Diffusion. Journal of Hydraulic Engineering, 146(11), 04020074, [https://doi.org/10.1061/(ASCE)HY.1943-7900.0001814](https://doi.org/10.1061/(ASCE)HY.1943-7900.0001814).
@@ -182,6 +198,11 @@ Song, Y., Xu, Y., and Liu, X. (2020). Physically Based Sand Slide Method in Scou
 
 Predicting local scour around bridges, piers, and other hydraulic structures remains challenging because conventional mesh deformation or body-fitted mesh methods become unstable or prohibitively expensive for structures with complex geometries. As the riverbed evolves during scour, these methods require repeated mesh deformation or remeshing, which often fails for real-world bridges with intricate structural components. I developed an immersed boundary method that embeds complex structures directly into structured computational grids, eliminating the need for body-fitted meshes while accurately resolving flow–structure interactions. This approach substantially reduces computational cost and makes high-fidelity three-dimensional scour modeling practical for complex hydraulic engineering applications.
 
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="/images/scour_github.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **Representative publications**
 
 Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models. Coastal Engineering, 171, p.104037, [https://doi.org/10.1016/j.coastaleng.2021.104037](https://doi.org/10.1016/j.coastaleng.2021.104037).
@@ -191,6 +212,11 @@ Song, Y., Xu, Y., Ismail, H. and Liu, X., 2022. Scour modeling based on immersed
 ### Scour Around Underwater Unexploded Ordnances (UXOs)
 
 I combined laboratory experiments and three-dimensional numerical simulations to investigate scour development around underwater unexploded ordnances. The work provides guidance for hazard assessment and offshore engineering applications.
+
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="/images/scour_cylinder_github.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Representative publication**
 
