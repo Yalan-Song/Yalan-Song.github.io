@@ -37,12 +37,14 @@ My research develops artificial intelligence (AI) methods for understanding and 
 
 ### Differentiable Modeling for Extreme Flood Prediction
 
-Extreme floods are becoming more frequent under climate change, yet purely data-driven models often struggle to predict events beyond their training record. I developed differentiable hydrologic models that embed physical conservation laws into neural networks, enabling robust prediction of unseen flood extremes while improving interpretability and climate sensitivity analysis.
+Extreme floods are becoming more frequent under climate change, yet purely data-driven AI models often struggle to predict events beyond their training domain. I develop physics-informed differentiable hydrologic models that seamlessly integrate physical process equations with neural networks, enabling more robust prediction of unseen flood extremes while improving physical interpretability and generalizability.
+
+An improved differentiable HBV method that can surpass LSTM in predicting unseen extreme events with 50-year or 100-year return periods by around 10%
+![extreme](/images/extreme.png)
 
 **Representative publications**
 
-* WRR 2026 – Physics-informed differentiable hydrologic models for capturing unseen extreme events
-* Nature Communications 2025 – Distinct hydrologic response patterns and trends worldwide revealed by physics-embedded learning
+Song, Y., Sawadekar, K., Frame, J.M., Pan, M., Clark, M.P., Knoben, W.J., Wood, A.W., Lawson, K.E., Patel, T. and Shen, C., 2026. Physics-informed, Differentiable hydrologic models for capturing unseen extreme events. Water Resources Research, 62(2), p.e2025WR040414. [https://doi.org/10.1029/2025WR040414](https://doi.org/10.1029/2025WR040414) 
 
 ---
 
